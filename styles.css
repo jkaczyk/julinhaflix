@@ -8,12 +8,11 @@ section{
      display: flex;
      justify-content: center;
 }
-div{
+.chamada-texto{
      margin-right: 20px;
 }
 
 header{
 border-bottom: solid 2px rgb(42, 122, 228);
 padding: 20px;
-color: rgb(42, 122, 228);
 }
